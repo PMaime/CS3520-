@@ -1,3 +1,10 @@
+/*Author: Maime Pheelo
+Purpose: Reversible-prime-squares                             +  
+Date: 10 October 20222                                        +
+Contact: phillipmaime@gmail.com                               +
+Student ID: 202000484
+*/
+
 #include <stdio.h>
 #include<stdlib.h>
 #include <stdbool.h>
